@@ -8,4 +8,4 @@ Computer engineer in Istanbul. I work in R&D, focusing on computer vision and ma
 
 [Weather Prediction](https://github.com/esatkee/weather-ml) — Weather classification with Python and scikit-learn.  
 [Diary+](https://github.com/esatkee/diary-plus) — A team-built diary app with Flutter, Firebase and Supabase.  
-[İZÜ Campus](https://github.com/esatkee/izu-campus) — A Flutter app for courses, schedules and student records.
+
