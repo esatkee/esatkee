@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="420" viewBox="0 0 1100 420">
+  <title>Lasttik — Intelligent logistics. Explore the project.</title>
+  <rect x="1" y="1" width="1098" height="418" rx="20" fill="#0d1714" stroke="#28704f" stroke-width="2"/>
+  <path d="M760 420V0M870 420V0M980 420V0M700 105h400M700 210h400M700 315h400" stroke="#173a2b" stroke-width="1"/>
+  <g transform="translate(754 70)">
+    <path d="M0 118L61 57 118 113 232 0 293 61 118 236Z" fill="#2fa871"/>
+    <path d="M0 118L61 57V113H118L57 175Z" fill="#16835c"/>
+    <path d="M57 175L118 113V236Z" fill="#155a46"/>
+    <path d="M118 113L177 174 118 236Z" fill="#197353"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="58" y="145" font-size="100" font-weight="750" letter-spacing="-4" fill="#f0faf4">lasttik</text>
+    <text x="62" y="214" font-size="36" fill="#a6d9bc">Intelligent logistics.</text>
+    <text x="62" y="263" font-size="29" fill="#a6d9bc">Plan better. Load smarter.</text>
+    <path d="M62 311H651" stroke="#28704f"/>
+    <text x="62" y="367" font-size="27" font-weight="600" fill="#64d59b">Explore the project</text>
+    <path d="M342 357h32m-12-12 12 12-12 12" fill="none" stroke="#64d59b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
