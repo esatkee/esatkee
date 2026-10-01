@@ -8,6 +8,7 @@ Company: [Turbo AI Vision](https://turboaivision.com/)
 
 ## Projects
 
-<a href="https://github.com/Turbo-Trans"><img src="https://raw.githubusercontent.com/esatkee/esatkee/main/assets/lasttik-project-card.svg" alt="Lasttik — Intelligent logistics. Open the project overview." width="100%"></a>
-
-<a href="https://github.com/kim-market"><img src="https://raw.githubusercontent.com/esatkee/esatkee/main/assets/turbo-ai-vision-project-card.svg" alt="Turbo AI Vision — Computer vision for real-world operations. Open the project overview." width="100%"></a>
+<p>
+<a href="https://github.com/Turbo-Trans"><img src="https://raw.githubusercontent.com/esatkee/esatkee/main/assets/lasttik-project-card.svg" alt="Lasttik — Intelligent logistics. Open the project overview." width="48%"></a>
+<a href="https://github.com/kim-market"><img src="https://raw.githubusercontent.com/esatkee/esatkee/main/assets/turbo-ai-vision-project-card.svg" alt="Turbo AI Vision — Computer vision for real-world operations. Open the project overview." width="48%"></a>
+</p>
