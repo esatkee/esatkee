@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="420" viewBox="0 0 1100 420">
+  <title>Turbo AI Vision — Computer vision for real-world operations. Explore the project.</title>
+  <rect x="1" y="1" width="1098" height="418" rx="20" fill="#0d1522" stroke="#325983" stroke-width="2"/>
+  <g fill="none" stroke="#1a2f49" stroke-width="1">
+    <circle cx="906" cy="198" r="155"/><circle cx="906" cy="198" r="121"/>
+    <path d="M906 15v365M723 198h366"/>
+  </g>
+  <g fill="none" stroke="#64b8f3" stroke-linejoin="round">
+    <path d="M786 133v-40h40M986 93h40v40M1026 263v40h-40M826 303h-40v-40" stroke-width="7"/>
+    <path d="M803 198Q906 90 1009 198Q906 306 803 198Z" stroke-width="5"/>
+    <circle cx="906" cy="198" r="39" stroke-width="5"/>
+    <circle cx="906" cy="198" r="14" fill="#64b8f3" stroke="none"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="58" y="132" font-size="82" font-weight="750" letter-spacing="-3" fill="#f1f7ff">Turbo AI Vision</text>
+    <text x="62" y="204" font-size="34" fill="#b2d5f4">Computer vision.</text>
+    <text x="62" y="255" font-size="29" fill="#b2d5f4">Real-world operational intelligence.</text>
+    <path d="M62 311H651" stroke="#325983"/>
+    <text x="62" y="367" font-size="27" font-weight="600" fill="#79c5ff">Explore the project</text>
+    <path d="M342 357h32m-12-12 12 12-12 12" fill="none" stroke="#79c5ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
